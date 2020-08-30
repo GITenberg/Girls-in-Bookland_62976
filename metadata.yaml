@@ -1,0 +1,43 @@
+_repo: Girls-in-Bookland_62976
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Adams, John Wolcott
+    birthdate: 1874
+    deathdate: 1925
+    gutenberg_agent_id: '7242'
+    url: http://www.gutenberg.org/2009/agents/7242
+    wikipedia: https://en.wikipedia.org/wiki/John_Wolcott_Adams
+creator:
+  author:
+    agent_name: Hawthorne, Hildegarde
+    alias: Oskison, Hildegarde Hawthorne
+    birthdate: 1871
+    deathdate: 1952
+    gutenberg_agent_id: '52207'
+    url: http://www.gutenberg.org/2009/agents/52207
+    wikipedia: https://en.wikipedia.org/wiki/Hildegarde_Hawthorne
+description: ''
+gutenberg_issued: '2020-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62976'
+  lccn: '17029140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Books and reading -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: How it began to open -- The winner of the torch race -- An adventure
+  with Little Women -- A looking-glass visit -- A tournament and a rescue with Rowena
+  -- Afternoon tea in Cranford -- A letter from Lorna -- Little Maid Marion -- The
+  adventure in Guinevere's castle -- In the Hielands with Di Vernon -- A summer day
+  with Ramona -- Romola and the Florentine boy -- Little Nell and the bun-shop --
+  Evangeline and the big bear -- The little Quaker-city maid.
+title: Girls in Bookland
+url: http://www.gutenberg.org/ebooks/62976
